@@ -1,0 +1,83 @@
+
+This is what happen after i ran the first function using node runtime.js
+
+/* time : Results for the extraLargeArray
+insert 1.8877592 s
+append 7.0774 ms
+*/
+
+7.0774 ms - 1.8877592 s = 5.1896409 s
+
+running the second function 
+
+Results for the extraLargeArray
+insert 1.0172543 s
+append 3.3471 ms
+
+3.3471 ms - 1.0172543 s = 2.3298457 s
+
+This is what happen after i ran the first function 
+Results for the LargeArray
+insert 16.4211 ms
+append 1.0181 ms
+
+1.0181 ms - 16.4211 ms = -15.403 ms
+running the second function 
+
+Results for the LargeArray
+insert 16.0912 ms
+append 1.0005 ms
+
+1.0005 ms- 16.0912 ms = -15.0862ms
+
+This is what happen after i ran the first function 
+Results for the mediumArray
+insert 330.9 μs
+append 245.7 μs
+
+245.7 μs - 330.9 μs = -85.2 μs
+
+running the second function
+
+Results for the mediumArray
+insert 327.1 μs
+append 245.1 μs
+
+245.1 μs-327.1 μs= -82 μs
+
+
+This is what happen after i ran the first function 
+Results for the smallArray
+insert 92.6 μs
+append 170.8 μs
+
+92.6 μs-170.8 μs= -78.2μs
+
+running the second function
+
+Results for the smallArray
+insert 87.7 μs
+append 169 μs
+
+87.7 μs-169 μs= -81.3μs
+
+
+
+
+
+Results for the tinyArray
+insert 76.7 μs
+append 158.5 μs
+
+
+76.7 μs-158.5μs= -81.3μs
+
+running the second function
+Results for the tinyArray
+insert 70.5 μs
+append 145.3 μs
+70.5 μs-145.3= -74.8μs
+
+
+
+
