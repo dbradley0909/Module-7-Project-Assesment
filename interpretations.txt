@@ -1,0 +1,23 @@
+interpretations of results: It seems the extra large 
+array was the only array that stood out from the
+ rest because when calculating the formula one of
+  the functions runtime was linear and the other one 
+  slightly linear. Both had huge gaps when charting 
+  in excel, also, im not sure if i did the
+  calculations correctly for it to do this, 
+the large array was negative for some odd, didnt understood why
+ that was maybe because of the calculations. but all functions 
+ seemed to be linear
+ except extra large array where there was a difference between 
+ the runtimes.As far as scaling better i would say 
+ small and tiny their
+  runtimes were almost the same.
+ those 2 runtimes would have taken up less
+  time to respond to a single request. 
+
+  extra credit:
+  I would say that extra- large array would have been the slower function because when charting the data on excell
+  i seen a a huge jump from the start and stop times while the other functions had runtimes were really close to one another
+
+  another thing i dont know why excel deleted to of the charts data but it was 
+  there before i submitted it

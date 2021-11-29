@@ -35,7 +35,7 @@ Results for the mediumArray
 insert 330.9 μs
 append 245.7 μs
 
-245.7 μs - 330.9 μs = -85.2 μs
+ 330.9 μs -  245.7 μs = 85.2 μs
 
 running the second function
 
@@ -51,7 +51,7 @@ Results for the smallArray
 insert 92.6 μs
 append 170.8 μs
 
-92.6 μs-170.8 μs= -78.2μs
+170.8 μs-92.6 μs= 78.2μs
 
 running the second function
 
@@ -59,7 +59,7 @@ Results for the smallArray
 insert 87.7 μs
 append 169 μs
 
-87.7 μs-169 μs= -81.3μs
+169 μs-87.7 μs= 81.3μs
 
 
 
@@ -70,14 +70,15 @@ insert 76.7 μs
 append 158.5 μs
 
 
-76.7 μs-158.5μs= -81.3μs
+158.5μs-76.7 μs= 81.3μs
 
 running the second function
 Results for the tinyArray
 insert 70.5 μs
 append 145.3 μs
-70.5 μs-145.3= -74.8μs
+145.3 μs- 70.5= 74.8μs
 
 
+interpretations of results is in interpretations.txt
 
 
